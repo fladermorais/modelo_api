@@ -1,8 +1,7 @@
 # Apia para Upload de Arquivos
 ## Sobre este sistema
 
-Este sistema foi criado para que o cliente possa nos enviar um arquivo do tipo csv e então, alimentarmos um banco de dados da AIBruna com seus respectivos valores
-
+Modelo básico para inicio de um projeto em formato de API
 
 ## Tecnologias Utilizadas
 
