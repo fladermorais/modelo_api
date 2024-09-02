@@ -36,7 +36,7 @@ Adicione o conteúdo abaixo:
 <pre>
  <VirtualHost *:80>
 	ServerName api.local
-	ServerAdmin suporte@toppen.com.br
+	ServerAdmin suporte@email.com.br
 	DocumentRoot /var/www/html/api/public/
 
 	<Directory /var/www/html/api>
@@ -63,7 +63,7 @@ a2enmode rewrite
 ### Clonando o Projeto
 <pre>
 cd /var/www/html
-git clone https://itacomercios@bitbucket.org/fladerdev/diario_on_line.git diario
+git clone https://github.com/fladermorais/modelo_api.git api
 </pre>
 
 ### Instalando o composer
